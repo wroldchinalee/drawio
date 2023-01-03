@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-03T06:30:55.445Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="lHagpWMW7BWq-_AWCrkd" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-03T06:31:43.442Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="zb5p4plnBOIc3_oaRh8i" type="github">
   <diagram id="Ltg7QcrjP80mgIcot8rD" name="第 1 页">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="WKshn-10NaRzlIwst9Vs-4" value="集群管理器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="414" y="170" width="116" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WKshn-10NaRzlIwst9Vs-10" value="申请资源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="WKshn-10NaRzlIwst9Vs-10" value="注册" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="310" y="170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WKshn-10NaRzlIwst9Vs-13" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;curved=1;" edge="1" parent="1" source="WKshn-10NaRzlIwst9Vs-4" target="WKshn-10NaRzlIwst9Vs-2">
