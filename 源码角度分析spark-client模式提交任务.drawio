@@ -1,1 +1,134 @@
-<mxfile host="app.diagrams.net" modified="2023-01-04T06:16:03.245Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="G1FWxIshmof0Bun5zbt2" version="20.7.4" type="github"><diagram id="lPL1eORgBcBRwDBmHfiU" name="第 1 页">7VtLk6M2EP41qkoO40KIhziCzWySmqkcplK7c9QajU0WI5eQX/vrI2FhY4u12aq1YZicjFrioW59X6u7ZYDGi+0nTpbzZ5bQDNhWsgVoAmwb+hjKHyXZ7SUe9PaCGU8TPegoeEm/Uy20tHSVJrQ4GSgYy0S6PBVOWZ7TqTiREc7Z5nTYG8tO37okM2oIXqYkM6Wf00TM91Js+0f5HzSdzas3Qy/Y9yxINVjPpJiThG1qIhQDNOaMif3VYjummVJepZf9fY8/6D18GKe5aHNDFnp/f1nTcPVE43mefbbg5PsD2j9lTbKVnrD+WLGrNEATqRDdZFzM2YzlJIuP0oizVZ5Q9RpLto5jnhhbSiGUwn+pEDttXbISTIrmYpHp3kJw9u2gX6mZyJycnm/BVnxKL8yoWiSEz6i4ME5PVM2u9gKtuk+ULajgOzmA04yIdH26HIheVbPDuKPi5YXW/U/YAZp2iD2AAxD6IMYghACPC6mObw/F6usiFSB2QQBBNAGxA6IIhI5ht1OrbOapoC9LUupuI7F6aoG3NMvGLGO8vBclhOK36cEytR5viunXt5+z2ZpyQbcXtax7fY0VTRawws7mCL2DbF6DnWfdyC5eF3CQ+uO7L/r+svGqGiO3ak629c7JTrd+JYzsljByewUj24DRiwLNS4mZ0YKk+SBgcljvvcGJ08BfWJFXiBSRBTEILMVZ+BHgktoCF0SWYQw5f9HkGirN5iynZ2bQIpKls1w2p1KrVMojpc1U+vFQdyzSJCnh2WTi00VwE5vB4LrNvAaToVuZDA/O9bstOcvvFWe5FzkrYfuLQfCW47bgLeeevAVNDrqrgz/69NcTl357B++3BEvQK7D4F8FSDAcqHmoBFXRXqJibq/fuMIKWGICwVyAILoKAr/LnoWx0z1Fgd48C96M6DNg2swKdXqEFmrmVOlyWnCpt7Ftxvk65fG8+DCeC7Ovwse8KH7vj/VZ3CZUKFdfh068dFzRD+5xupOAvsibK0YTLZSYDbZGy/DeVYRlnpCh+HwR+zuCDYIP38e/qfTxzDxb7Kj0cxmXCJQahsyNcen9rmqVq5rEHwjKBHLsgGqsEjEodWyAsL3CoeuUjIqjSyCqZjEEUKknglF0ewFLiH8fY4/JRAYg8EAcAWyAI1bujR4D9hkVRjrYAhuUHIoDdi0//OBmhoAU5w4bVZd+MnIe3w4dtt/h2v7b40NzjN0BrVMh5DWOrYrstuNa961alIaf9ztFgt93C26hXaLDNLfy49G4641P3NkMAw3metBEMd82T2t0WQg+NDgqhqC1melYKNY92aMxMOSVCLuZcSG9C+RNZ5dO5aqqt1hDg43nX4WPftTyKug17u4RP26Kc3a+w1zbLcq8yrhq023GtU9w4qAE31l3djlnvuRDvrgoV6BkBL1mUAWcIsNMm9mV8NiLSVHM6Kk9cjRK6zNhupF4zqpn8mZSv+0ABK3bO1odlro+mdMjNjjAg9GFptW1ci+x+0aoZ1xqQGs45rfMzP90TKmo6aIoVIaoknKeoENt8YR4+bUeipeXU6S5PJQjV85A66fWBONKp8uWVyRuyer5nWvxmST3UTcFym4pavVK2Xms9R4JUjYof+1DkrOjyOq/2q8hZffdFXuWrgdDqdVa97+lX5He6D+mwqonaVjWR1y+8mMndRrz8uVhmg8DMwxloXNc2QdN0/thzR+6tjBB06Zqq6xpoWrimDqHmtYUa7hfUzJp1I9QmXH6KGU+/R7CdHxxwXTjy3c7x5kBDu//j7SqMruKtyor0BW/mHztMvJWF438KyoeWw3S8636u8VSFdzPUWYY9zAhak5+Ko0N1kkYlOTHAkRmIXzo8U0XoLcPw92hf32lFrb/KxLJ5/Id22Vf7nzuK/wM=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-04T07:30:13.375Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="jmGzr752gRQxX1YJYRbt" version="20.7.4" type="github">
+  <diagram id="lPL1eORgBcBRwDBmHfiU" name="第 1 页">
+    <mxGraphModel dx="1781" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="lA6OXveAuLeEhnlW01Dz-1" target="lA6OXveAuLeEhnlW01Dz-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-1" value="执行spark-submit命令" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="70" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="lA6OXveAuLeEhnlW01Dz-2" target="lA6OXveAuLeEhnlW01Dz-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-2" value="SparkSubmit.main" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="260" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-4" value="解析参数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="190" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="lA6OXveAuLeEhnlW01Dz-5" target="lA6OXveAuLeEhnlW01Dz-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-5" value="SparkSubmit.doSubmit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="450" y="120" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="lA6OXveAuLeEhnlW01Dz-7" target="lA6OXveAuLeEhnlW01Dz-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-7" value="SparkSubmit.submit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="630" y="120" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="lA6OXveAuLeEhnlW01Dz-9" target="lA6OXveAuLeEhnlW01Dz-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-9" value="SparkSubmit.runMain" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="630" y="220" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="lA6OXveAuLeEhnlW01Dz-11" target="lA6OXveAuLeEhnlW01Dz-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-11" value="SparkSubmit.prepareSubmitEnviroment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="320" y="220" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="lA6OXveAuLeEhnlW01Dz-14" target="lA6OXveAuLeEhnlW01Dz-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-14" value="new JavaMainApplication(mainClass)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="20" y="310" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-16" value="确认yarn client模式启动类为用户类,并通过JavaMainApplication封装用户类" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="90" y="220" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="lA6OXveAuLeEhnlW01Dz-19" target="lA6OXveAuLeEhnlW01Dz-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-19" value="JavaMainApplication.start" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="250" y="310" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="lA6OXveAuLeEhnlW01Dz-21" target="lA6OXveAuLeEhnlW01Dz-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-21" value="运行用户类main方法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="450" y="310" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="lA6OXveAuLeEhnlW01Dz-23" target="lA6OXveAuLeEhnlW01Dz-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BDLDN5k-2o4Eaj2H391s-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="lA6OXveAuLeEhnlW01Dz-23" target="BDLDN5k-2o4Eaj2H391s-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-23" value="new SparkContext" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="660" y="310" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="lA6OXveAuLeEhnlW01Dz-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-25" value="YarnClusterManager.createTaskScheduler" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="460" y="430" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-27" value="通过masterUrl和SPI确认yarn client的clusterManager为YarnClusterManager" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="800" y="400" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="lA6OXveAuLeEhnlW01Dz-34" target="lA6OXveAuLeEhnlW01Dz-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="743.05" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-34" value="TaskSchedulerImpl.start" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="640" width="160" height="65.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="lA6OXveAuLeEhnlW01Dz-36" target="lA6OXveAuLeEhnlW01Dz-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-36" value="YarnClientSchedulerBackend.start" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="260" y="638" width="210" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="lA6OXveAuLeEhnlW01Dz-38" target="lA6OXveAuLeEhnlW01Dz-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-38" value="ApplicationMaster.startUserApplication" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="519" y="641.5" width="210" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-40" value="启动Driver线程执行用户类的main方法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="730" y="710" width="210" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="BDLDN5k-2o4Eaj2H391s-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="BDLDN5k-2o4Eaj2H391s-1" target="BDLDN5k-2o4Eaj2H391s-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BDLDN5k-2o4Eaj2H391s-1" value="YarnClusterManager.createSchedulerBackend" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="440" y="520" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BDLDN5k-2o4Eaj2H391s-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="BDLDN5k-2o4Eaj2H391s-3" target="lA6OXveAuLeEhnlW01Dz-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BDLDN5k-2o4Eaj2H391s-3" value="new YarnScheduler" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="430" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BDLDN5k-2o4Eaj2H391s-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="BDLDN5k-2o4Eaj2H391s-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDLDN5k-2o4Eaj2H391s-4" value="new YarnClientSchedulerBackend" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="170" y="520" width="195" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
