@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-04T07:30:13.375Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="jmGzr752gRQxX1YJYRbt" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-04T07:37:16.230Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="mlIWs_O0QWjY3UqX0pmf" version="20.7.4" type="github">
   <diagram id="lPL1eORgBcBRwDBmHfiU" name="第 1 页">
     <mxGraphModel dx="1781" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,14 +99,17 @@
         <mxCell id="lA6OXveAuLeEhnlW01Dz-36" value="YarnClientSchedulerBackend.start" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="260" y="638" width="210" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="lA6OXveAuLeEhnlW01Dz-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="lA6OXveAuLeEhnlW01Dz-38" target="lA6OXveAuLeEhnlW01Dz-40" edge="1">
+        <mxCell id="BDLDN5k-2o4Eaj2H391s-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lA6OXveAuLeEhnlW01Dz-38" target="lA6OXveAuLeEhnlW01Dz-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lA6OXveAuLeEhnlW01Dz-38" value="ApplicationMaster.startUserApplication" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="519" y="641.5" width="210" height="65" as="geometry" />
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-38" value="Client.submitApplication" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="560" y="641" width="210" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="lA6OXveAuLeEhnlW01Dz-40" value="启动Driver线程执行用户类的main方法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="730" y="710" width="210" height="65" as="geometry" />
+        <mxCell id="BDLDN5k-2o4Eaj2H391s-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="lA6OXveAuLeEhnlW01Dz-40" target="BDLDN5k-2o4Eaj2H391s-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-40" value="Client.createContainerLaunchContext" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="700" y="770" width="210" height="65" as="geometry" />
         </mxCell>
         <mxCell id="BDLDN5k-2o4Eaj2H391s-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="BDLDN5k-2o4Eaj2H391s-1" target="BDLDN5k-2o4Eaj2H391s-4">
           <mxGeometry relative="1" as="geometry" />
@@ -127,6 +130,9 @@
         </mxCell>
         <mxCell id="BDLDN5k-2o4Eaj2H391s-4" value="new YarnClientSchedulerBackend" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="170" y="520" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BDLDN5k-2o4Eaj2H391s-9" value="Client.createContainerLaunchContext" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="390" y="770" width="210" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
