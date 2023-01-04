@@ -1,1 +1,121 @@
-<mxfile host="app.diagrams.net" modified="2023-01-03T13:45:57.147Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="L9IX_GgSRx3XmOc3yj_3" type="github"><diagram id="a2eY4qBz9KUAwVgnlqXy">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-04T03:20:19.669Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="dQ7uL6cAvCW2rQ71LKqq" type="github">
+  <diagram id="lPL1eORgBcBRwDBmHfiU" name="第 1 页">
+    <mxGraphModel dx="1781" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="lA6OXveAuLeEhnlW01Dz-1" target="lA6OXveAuLeEhnlW01Dz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-1" value="执行spark-submit命令" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="70" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="lA6OXveAuLeEhnlW01Dz-2" target="lA6OXveAuLeEhnlW01Dz-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-2" value="SparkSubmit.main" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-4" value="解析参数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="190" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="lA6OXveAuLeEhnlW01Dz-5" target="lA6OXveAuLeEhnlW01Dz-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-5" value="SparkSubmit.doSubmit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="450" y="120" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="lA6OXveAuLeEhnlW01Dz-7" target="lA6OXveAuLeEhnlW01Dz-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-7" value="SparkSubmit.submit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="630" y="120" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="lA6OXveAuLeEhnlW01Dz-9" target="lA6OXveAuLeEhnlW01Dz-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-9" value="SparkSubmit.runMain" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="630" y="220" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="lA6OXveAuLeEhnlW01Dz-11" target="lA6OXveAuLeEhnlW01Dz-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-11" value="SparkSubmit.prepareSubmitEnviroment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="320" y="220" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="lA6OXveAuLeEhnlW01Dz-14" target="lA6OXveAuLeEhnlW01Dz-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-14" value="YarnClusterApplication.start" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="310" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-16" value="确认yarn cluster模式启动类为org.apache.spark.deploy.yarn.YarnClusterApplication" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="130" y="210" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="lA6OXveAuLeEhnlW01Dz-19" target="lA6OXveAuLeEhnlW01Dz-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-19" value="Client.run" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="lA6OXveAuLeEhnlW01Dz-21" target="lA6OXveAuLeEhnlW01Dz-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-21" value="Client.submitApplication" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="450" y="310" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="lA6OXveAuLeEhnlW01Dz-23" target="lA6OXveAuLeEhnlW01Dz-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-23" value="Client.createContainerLaunchContext" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="660" y="310" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="lA6OXveAuLeEhnlW01Dz-25" target="lA6OXveAuLeEhnlW01Dz-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-25" value="YarnClient.submitApplication" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="500" y="430" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-27" value="确认yarn cluster模式am的启动类为org.apache.spark.deploy.yarn.ApplicationMaster" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="840" y="400" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="lA6OXveAuLeEhnlW01Dz-29" target="lA6OXveAuLeEhnlW01Dz-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-29" value="ApplicationMaster.main" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="190" y="430" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-31" value="请求rm执行am的启动类main方法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="414" y="420" width="76" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="lA6OXveAuLeEhnlW01Dz-32" target="lA6OXveAuLeEhnlW01Dz-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-32" value="ApplicationMaster.run" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="10" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="lA6OXveAuLeEhnlW01Dz-34" target="lA6OXveAuLeEhnlW01Dz-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-34" value="ApplicationMaster.runImpl" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="552" width="160" height="65.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="lA6OXveAuLeEhnlW01Dz-36" target="lA6OXveAuLeEhnlW01Dz-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-36" value="ApplicationMaster.runDriver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="551.75" width="160" height="65.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="lA6OXveAuLeEhnlW01Dz-38" target="lA6OXveAuLeEhnlW01Dz-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-38" value="ApplicationMaster.startUserApplication" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="460" y="552" width="210" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="lA6OXveAuLeEhnlW01Dz-40" value="启动Driver线程执行用户类的main方法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="740" y="551.75" width="210" height="65" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
