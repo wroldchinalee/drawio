@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-05T08:16:38.912Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="HqgJ4khaR3rqlD-CUcVN" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-05T08:17:03.763Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="yEsBtu1sF7g0Esqjx0k1" type="github">
   <diagram id="YVUoaGTMcWIvGlP6MnDf" name="第 1 页">
     <mxGraphModel dx="954" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="C4P6sSRYy0k-7sVb_2gp-2" value="Glight Manager UI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="70" y="30" width="550" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C4P6sSRYy0k-7sVb_2gp-3" value="Glight Web Service(Http)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="C4P6sSRYy0k-7sVb_2gp-3" value="Glight Web Service(HTTP)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="70" y="110" width="550" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C4P6sSRYy0k-7sVb_2gp-4" value="Glight Engine" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
@@ -19,7 +19,7 @@
         <mxCell id="C4P6sSRYy0k-7sVb_2gp-6" value="Glight&lt;br&gt;Business&lt;br&gt;Storage&lt;br&gt;(Mysql)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="640" y="110" width="100" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="C4P6sSRYy0k-7sVb_2gp-7" value="Engine Web Service(Http)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="C4P6sSRYy0k-7sVb_2gp-7" value="Engine Web Service(HTTP)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="450" y="220" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="C4P6sSRYy0k-7sVb_2gp-8" value="DolphinScheduler" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
