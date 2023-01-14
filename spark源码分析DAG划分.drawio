@@ -1,1 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T12:49:13.225Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="ZlrUc7RvOyPAYGw1wi0j" type="github"><diagram id="dshcxmoSOMy7CoqohAKE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-14T07:55:15.048Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="-_9QGvPzkYIXNOt4Horf" type="github">
+  <diagram id="2OYnbzqB7NX03Sb6iwoC" name="第 1 页">
+    <mxGraphModel dx="1781" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-KdQxgFjv8G8Ud2fllDU-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;targetPerimeterSpacing=0;strokeWidth=2;" edge="1" parent="1" source="-KdQxgFjv8G8Ud2fllDU-1" target="-KdQxgFjv8G8Ud2fllDU-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-KdQxgFjv8G8Ud2fllDU-1" value="RDD#collect" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-KdQxgFjv8G8Ud2fllDU-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;targetPerimeterSpacing=0;" edge="1" parent="1" source="-KdQxgFjv8G8Ud2fllDU-2" target="-KdQxgFjv8G8Ud2fllDU-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-KdQxgFjv8G8Ud2fllDU-2" value="SparkContext#runJob" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-KdQxgFjv8G8Ud2fllDU-4" value="触发action操作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="40" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-KdQxgFjv8G8Ud2fllDU-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;targetPerimeterSpacing=0;" edge="1" parent="1" source="-KdQxgFjv8G8Ud2fllDU-7" target="-KdQxgFjv8G8Ud2fllDU-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-KdQxgFjv8G8Ud2fllDU-7" value="DAGScheduler#runJob" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="390" y="70" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-KdQxgFjv8G8Ud2fllDU-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;targetPerimeterSpacing=0;" edge="1" parent="1" source="-KdQxgFjv8G8Ud2fllDU-11" target="-KdQxgFjv8G8Ud2fllDU-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-KdQxgFjv8G8Ud2fllDU-11" value="DAGScheduler#submitJob" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="650" y="70" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-KdQxgFjv8G8Ud2fllDU-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;targetPerimeterSpacing=0;" edge="1" parent="1" source="-KdQxgFjv8G8Ud2fllDU-13" target="-KdQxgFjv8G8Ud2fllDU-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-KdQxgFjv8G8Ud2fllDU-13" value="EventLoop#post" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="650" y="210" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-KdQxgFjv8G8Ud2fllDU-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;targetPerimeterSpacing=0;" edge="1" parent="1" source="-KdQxgFjv8G8Ud2fllDU-15" target="-KdQxgFjv8G8Ud2fllDU-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-KdQxgFjv8G8Ud2fllDU-15" value="DAGScheduler#onReceive" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="410" y="210" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-KdQxgFjv8G8Ud2fllDU-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;targetPerimeterSpacing=0;" edge="1" parent="1" source="-KdQxgFjv8G8Ud2fllDU-17" target="-KdQxgFjv8G8Ud2fllDU-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-KdQxgFjv8G8Ud2fllDU-17" value="DAGScheduler#doOnReceive" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="210" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-KdQxgFjv8G8Ud2fllDU-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;targetPerimeterSpacing=0;" edge="1" parent="1" source="-KdQxgFjv8G8Ud2fllDU-19" target="-KdQxgFjv8G8Ud2fllDU-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-KdQxgFjv8G8Ud2fllDU-19" value="DAGScheduler#handleJobSubmitted" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="210" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-KdQxgFjv8G8Ud2fllDU-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;targetPerimeterSpacing=0;" edge="1" parent="1" source="-KdQxgFjv8G8Ud2fllDU-22" target="-KdQxgFjv8G8Ud2fllDU-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-KdQxgFjv8G8Ud2fllDU-22" value="DAGScheduler#createResultStage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="350" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-KdQxgFjv8G8Ud2fllDU-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;targetPerimeterSpacing=0;" edge="1" parent="1" source="-KdQxgFjv8G8Ud2fllDU-24" target="-KdQxgFjv8G8Ud2fllDU-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-KdQxgFjv8G8Ud2fllDU-24" value="DAGScheduler#getOrCreateParentStages" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="350" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-KdQxgFjv8G8Ud2fllDU-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;targetPerimeterSpacing=0;" edge="1" parent="1" source="-KdQxgFjv8G8Ud2fllDU-28" target="-KdQxgFjv8G8Ud2fllDU-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-KdQxgFjv8G8Ud2fllDU-28" value="DAGScheduler#getShuffleDependenices" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="350" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-KdQxgFjv8G8Ud2fllDU-32" value="DAGScheduler#getOrCreateShuffleMapResult" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="570" y="510" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-KdQxgFjv8G8Ud2fllDU-34" value="遍历结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="630" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
