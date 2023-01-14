@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-14T07:55:15.048Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="-_9QGvPzkYIXNOt4Horf" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-14T07:58:43.733Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="MEFn4wrfNPIWHKCR6Ceu" type="github">
   <diagram id="2OYnbzqB7NX03Sb6iwoC" name="第 1 页">
     <mxGraphModel dx="1781" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,6 +78,9 @@
         </mxCell>
         <mxCell id="-KdQxgFjv8G8Ud2fllDU-34" value="遍历结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="630" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-KdQxgFjv8G8Ud2fllDU-36" value="这里获取的依赖只是父依赖，不包括父依赖的父依赖等情况" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="750" y="380" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
